@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "name": "The Nomad Club | Travel & Social",
+    "bio": "@join.nomad.club",
+    "avatarUrl": "/nomad_logo.png"
+  },
+  "links": [
+    {
+      "id": "1",
+      "title": "Instagram",
+      "url": "https://instagram.com/join.nomad.club"
+    }
+  ]
+}
